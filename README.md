@@ -1,5 +1,5 @@
 <h1>Hi, I'm Daisy! <br/><ahref="https://github.com/DaisyDurand">Programmer</a>, 
-<a href="https://www.linkedin.com/in/daisy-durand/">Cybersecurity Professionl
+<a href="https://www.linkedin.com/in/daisy-durand/">Cybersecurity Professional
 </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
