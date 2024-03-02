@@ -5,10 +5,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network-Security</b>
-  - [Firewall configuration](https://github.com/DaisyDurand/Network-Security)
+  - [Firewall Configuration](https://github.com/DaisyDurand/Network-Security)
     
 - <b>Network-Diagrams</b>
-  - [Creating a Network Diagram of a website on Azure](https://github.com/DaisyDurand/Network-Diagram)
+  - [Creating a Network Diagram of a Website on Azure](https://github.com/DaisyDurand/Network-Diagram)
     
 - <b>Secure-Web-Design-Implementation</b>
   - [Building, Securing and Designing a Web Application](https://github.com/DaisyDurand/Secure-Web-Design-Implementation)
