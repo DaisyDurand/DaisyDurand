@@ -1,4 +1,4 @@
-<h1>Hi, I'm Daisy! <br/><ahref="https://github.com/DaisyDurand"></a>, 
+<h1>Hi, I'm Daisy! <br/><ahref="https://github.com/DaisyDurand"></a> 
 <a href="https://www.linkedin.com/in/daisy-durand/">Cybersecurity Professional
 </h1>
 
