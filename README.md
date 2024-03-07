@@ -4,7 +4,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network-Security</b>
+- <b>NetSec Firewall Implementation Project</b>
   - [Firewall Configuration](https://github.com/DaisyDurand/Network-Security)
     
 - <b>Network-Diagrams</b>
