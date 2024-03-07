@@ -15,6 +15,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="daisy-durand | LinkedIn" width="22px" src="![linkedin](https://github.com/DaisyDurand/Network-Security/assets/147094227/f492a5ec-32ca-4b72-aebc-f36c2a310c42)" />][linkedin]
+[<img align="left" alt="daisy-durand | LinkedIn" width="22px" src="https://github.com/DaisyDurand/Network-Security/assets/147094227/f492a5ec-32ca-4b72-aebc-f36c2a310c42" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/daisy-durand/
