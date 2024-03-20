@@ -4,6 +4,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Monitoring-With-Splunk<b/>
+  - [Reports and Alerts using Splunk](https://github.com/DaisyDurand/Monitoring-With-Splunk)
+
 - <b>NetSec Firewall Implementation Project</b>
   - [Firewall Configuration](https://github.com/DaisyDurand/Network-Security)
     
